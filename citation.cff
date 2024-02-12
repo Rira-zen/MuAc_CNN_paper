@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: >-
+  Murine confocal microscopy CNN development for oral epithelial
+  dysplasia detection
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Rishi
+    family-names: Ramani
+    email: r.ramani@unimelb.edu.au
+    affiliation: 'Melbourne Dental School, University of Melbourne'
+    orcid: 'https://orcid.org/0000-0002-3924-2133'
+repository-code: 'https://github.com/Rira-zen/MuAc_CNN_paper/tree/main'
